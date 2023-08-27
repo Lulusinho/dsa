@@ -1,5 +1,6 @@
 #List of the data structures implemented
 
->Binary tree
->Red Black tree
->AVL tree
+- [x] Binary tree
+- [x] AVL tree //deletion still is needed
+- [ ] Red Black tree
+
